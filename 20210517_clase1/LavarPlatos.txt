@@ -1,0 +1,10 @@
+Lavar platos
+
+1 - Hay platos sucios ? 
+2 - Quiero lavarlos ahora mismo ? 
+3- Si si, entonces reviso si hay agua jabon y esponja,
+4 - Si no, fin.
+5 - Si hay agua, jabón y esponja entonces los lavo, si no, fin.
+6 - Secar platos.
+7 - Guardarlos. 
+8 - Fin.  
